@@ -1,8 +1,10 @@
 # CS300-Project-Two
 
 This repo is part of my Computer Science portfolio for CS 300: Data Structures and Algorithms at Southern New Hampshire University. It contains two artifacts that show both the analysis side of working with data structures and the practical coding side:
-	•	Project One Artifact: Runtime and Memory Analysis of Vector, Hash Table, and Binary Search Tree. This shows how I compared data structures, looked at their tradeoffs, and decided which one made the most sense for the advising program.
-	•	Project Two Artifact: A full C++ program (ProjectTwo.cpp) that loads course data, validates it, and prints the Computer Science courses in alphanumeric order. It also lets you search a course and view its prerequisites.
+	
+ •	Project One Artifact: Runtime and Memory Analysis of Vector, Hash Table, and Binary Search Tree. This shows how I compared data structures, looked at their tradeoffs, and decided which one made the most sense for the advising program.
+	
+ •	Project Two Artifact: A full C++ program (ProjectTwo.cpp) that loads course data, validates it, and prints the Computer Science courses in alphanumeric order. It also lets you search a course and view its prerequisites.
 
 Together, these two pieces show that I can both analyze algorithms and data structures on paper and implement them in working software.
 
