@@ -1,6 +1,6 @@
-# CS300-Project-Two
+# CS 300: System Analysis and Design
 
-This repo is part of my Computer Science portfolio for CS 300: Data Structures and Algorithms at Southern New Hampshire University. It contains two artifacts that show both the analysis side of working with data structures and the practical coding side:
+This repo is part of my Computer Science portfolio for CS 300: System Analysis and Design at Southern New Hampshire University. It contains two artifacts that show both the analysis side of working with data structures and the practical coding side:
 	
  •	Project One Artifact: Runtime and Memory Analysis of Vector, Hash Table, and Binary Search Tree. This shows how I compared data structures, looked at their tradeoffs, and decided which one made the most sense for the advising program.
 	
