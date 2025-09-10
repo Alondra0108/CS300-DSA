@@ -1,4 +1,4 @@
-# CS 300: System Analysis and Design
+# CS 300: Data Structure and Algorithms
 
 This repo is part of my Computer Science portfolio for CS 300: System Analysis and Design at Southern New Hampshire University. It contains two artifacts that show both the analysis side of working with data structures and the practical coding side:
 	
